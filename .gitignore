@@ -1,0 +1,3 @@
+*.png
+ignore/
+ignore/some_creds.txt
